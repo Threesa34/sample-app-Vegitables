@@ -1,0 +1,11 @@
+			
+							
+							@font-face {
+    font-family: shivaji01;
+    src: url(../fonts/Shivaji02.ttf);
+}
+
+.marathiname {
+    font-family: shivaji01;
+	font-size:18px;
+}
